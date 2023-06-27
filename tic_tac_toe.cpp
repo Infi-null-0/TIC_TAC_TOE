@@ -46,7 +46,7 @@ public:
         std::cout << "\t\t  4  |  5  |  6  \n";
         std::cout << "\t\t_____|_____|_____\n";
         std::cout << "\t\t     |     |     \n";
-        std::cout << "\t\t  7  |  8  |  8  \n";
+        std::cout << "\t\t  7  |  8  |  9  \n";
         std::cout << "\t\t     |     |     \n";
     }
 
